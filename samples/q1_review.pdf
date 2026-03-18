@@ -1,0 +1,131 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 5 0 R /Resources << /Font << /F1 6 0 R >> >> >>
+endobj
+
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 7 0 R /Resources << /Font << /F1 6 0 R >> >> >>
+endobj
+
+5 0 obj
+<< /Length 1800 >>
+stream
+BT
+/F1 14 Tf
+50 740 Td
+(Acme Corp Q1 2026 Business Review) Tj
+/F1 11 Tf
+0 -30 Td
+(Prepared by: Finance & Operations Team) Tj
+0 -20 Td
+(Date: March 17, 2026) Tj
+0 -40 Td
+(EXECUTIVE SUMMARY) Tj
+/F1 10 Tf
+0 -20 Td
+(Acme Corp closed Q1 2026 with total revenue of $8.4M, representing a 22% year-over-year increase.) Tj
+0 -15 Td
+(Gross margin improved to 61%, up from 57% in Q1 2025, driven by a shift toward higher-margin SaaS) Tj
+0 -15 Td
+(products and reduced reliance on professional services revenue. Operating expenses came in at $5.1M,) Tj
+0 -15 Td
+(slightly above the $4.9M budget due to accelerated hiring in Q1. Net income for the quarter was $1.2M.) Tj
+0 -15 Td
+(The pipeline entering Q2 is the strongest in company history at $34M, with three enterprise deals) Tj
+0 -15 Td
+(expected to close before June 30.) Tj
+0 -40 Td
+(REVENUE BREAKDOWN) Tj
+/F1 10 Tf
+0 -20 Td
+(SaaS Subscriptions: $5.9M  up 31 percent YoY) Tj
+0 -15 Td
+(Professional Services: $1.8M  down 4 percent YoY) Tj
+0 -15 Td
+(Marketplace & Other: $0.7M  up 18 percent YoY) Tj
+0 -40 Td
+(KEY DECISIONS MADE THIS QUARTER) Tj
+/F1 10 Tf
+0 -20 Td
+(1. Leadership approved the discontinuation of the legacy on-premise product line effective June 30, 2026.) Tj
+0 -15 Td
+(   Existing customers will be migrated to SaaS equivalents with a 12-month price lock guarantee.) Tj
+0 -20 Td
+(2. The board approved a $2.4M infrastructure budget for the Atlas cloud migration project.) Tj
+0 -20 Td
+(3. Sales compensation structure was revised to increase quota attainment incentives for enterprise deals.) Tj
+0 -20 Td
+(4. Acme entered exclusive due diligence with Vertex Systems for a potential acquisition.) Tj
+ET
+endstream
+endobj
+
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+
+7 0 obj
+<< /Length 1600 >>
+stream
+BT
+/F1 14 Tf
+50 740 Td
+(ACTION ITEMS FOR Q2 2026) Tj
+/F1 10 Tf
+0 -30 Td
+(1. VP Sales Maria Torres to finalize the three enterprise pipeline deals by May 15, 2026.) Tj
+0 -20 Td
+(2. CTO Raj Mehta to present the Atlas migration architecture plan to the board by April 1, 2026.) Tj
+0 -20 Td
+(3. CFO David Park to complete financial due diligence on Vertex Systems by April 10, 2026.) Tj
+0 -20 Td
+(4. HR Director Kelly Barnes to complete Q1 hiring backfill for 8 open engineering roles by April 30, 2026.) Tj
+0 -20 Td
+(5. Finance team to reforecast Q2 operating expenses following Q1 budget overrun - no deadline assigned.) Tj
+0 -40 Td
+(OPEN QUESTIONS) Tj
+/F1 10 Tf
+0 -20 Td
+(1. The impact of the Vertex acquisition on existing Acme headcount has not been assessed.) Tj
+0 -15 Td
+(   HR and legal need to evaluate retention obligations before term sheet is signed.) Tj
+0 -20 Td
+(2. It is unclear whether the on-premise sunset will trigger contract penalty clauses for two) Tj
+0 -15 Td
+(   enterprise customers. Legal to review by March 28.) Tj
+0 -20 Td
+(3. Q2 marketing budget has not been finalized pending board approval of revised annual plan.) Tj
+0 -20 Td
+(4. The timing of the SaaS price increase has not been determined - pricing committee to convene in April.) Tj
+0 -40 Td
+(This document is confidential and intended for internal use only.) Tj
+ET
+endstream
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000000433 00000 n 
+0000002286 00000 n 
+0000002367 00000 n 
+
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4020
+%%EOF

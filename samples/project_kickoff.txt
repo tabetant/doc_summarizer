@@ -1,0 +1,44 @@
+Project Kickoff Meeting Notes
+Acme Corp — Atlas Platform Migration
+Date: March 17, 2026
+Attendees: Sarah Chen (PM), Marcus Rivera (Engineering Lead), Priya Patel (DevOps), Tom Walsh (Finance), Linda Okafor (QA)
+
+---
+
+MEETING SUMMARY
+
+The team convened to kick off the migration of Acme's legacy Atlas platform to the new cloud-based infrastructure. The migration has been approved by the executive team and is expected to reduce infrastructure costs by 40% annually. The project will run in two phases: data migration (Q2) and application cutover (Q3). All departments affected by downtime must be notified at least two weeks in advance.
+
+---
+
+DECISIONS MADE
+
+1. The team decided to use AWS over Azure as the cloud provider, based on existing vendor relationships and the DevOps team's familiarity with AWS tooling.
+2. A phased migration approach was approved — no big-bang cutover. Phase 1 covers read-only services; Phase 2 covers transactional systems.
+3. The QA team will own end-to-end regression testing before each phase cutover. No phase goes live without QA sign-off.
+4. All legacy Atlas data will be retained in cold storage for a minimum of 18 months post-migration for compliance purposes.
+
+---
+
+ACTION ITEMS
+
+- Sarah to finalize vendor contracts with AWS professional services team by March 28, 2026.
+- Marcus to complete the technical architecture document and share with the team by April 4, 2026.
+- Priya to set up the staging environment on AWS by April 10, 2026.
+- Tom to confirm the revised infrastructure budget with the CFO by March 21, 2026.
+- Linda to draft the QA test plan for Phase 1 by April 15, 2026.
+- Marcus to schedule individual team training sessions on the new AWS tooling — no deadline set yet, to be confirmed.
+- Sarah to send a migration timeline to all affected department heads by March 25, 2026.
+
+---
+
+OPEN QUESTIONS
+
+1. Budget approval from the CFO is still pending — Tom to follow up by March 21. If not approved, the project timeline may need to shift.
+2. It is unclear whether the compliance team needs to sign off on the cold storage retention policy before Phase 1 begins. Sarah to check with Legal.
+3. The team has not yet determined whether external contractors will be needed for the data migration phase. Marcus to assess internal capacity and report back.
+4. The rollback plan for Phase 2 (transactional cutover) has not been finalized. This needs to be resolved before the Phase 2 go-live date.
+
+---
+
+Next meeting: April 1, 2026 — Phase 1 readiness review.
