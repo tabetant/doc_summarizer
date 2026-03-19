@@ -2,11 +2,14 @@ import json
 import os
 
 import anthropic
+from dotenv import load_dotenv
 from rich.console import Console
+
+load_dotenv()
 
 if not os.environ.get("ANTHROPIC_API_KEY"):
     raise EnvironmentError(
-        "ANTHROPIC_API_KEY is not set. Export it in your shell before running."
+        "ANTHROPIC_API_KEY is not set. Add it to your .env file or export it in your shell."
     )
 
 _err = Console(stderr=True)
